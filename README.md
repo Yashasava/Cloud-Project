@@ -16,4 +16,4 @@ Tools used --
 
 5. jenkins - for fetcing code from s3 build and deploying docker
 
-6. Docker - for creating a nodejs application container
+6. Docker - for creating a Flask application container
