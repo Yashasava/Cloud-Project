@@ -1,6 +1,6 @@
 Epam Project
 
-Flask application for aws CI/CD. Demonstrating Jenkins pipeline on AWS environment with AWS devops tools(CodeBuild, S3 Buckets, CodeDeploy) using terraform, ansible and Docker. 
+Flask application for aws CI/CD. Demonstrating Jenkins pipeline on AWS environment with AWS devops tools(CodeBuild, S3 Buckets, CodeDeploy) using terraform, ansible and Docker . 
 
 
 
