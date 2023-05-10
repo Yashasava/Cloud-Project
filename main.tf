@@ -16,7 +16,7 @@ Name = "cloud1_project"
 
 #s3
 resource "aws_s3_bucket" "example" {
-  bucket = "my-bucket-etp8839"
+  bucket = "etp-bucket-8839"
   tags = {
     Name        = "My bucket"
     Environment = "Dev"
